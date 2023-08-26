@@ -1,4 +1,4 @@
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 950px) {
   #profile {
     /* height: 83vh; */
     margin-bottom: 6rem;
@@ -8,7 +8,7 @@
   }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 700px) {
   #desktop-nav {
     display: none;
   }
@@ -43,7 +43,7 @@
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
   #contact,
   footer {
     height: 40vh;
